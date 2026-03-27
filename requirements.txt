@@ -1,0 +1,4 @@
+pydub
+git+https://github.com/openai/whisper.git
+google-genai
+gTTS
